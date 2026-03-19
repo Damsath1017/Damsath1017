@@ -6,10 +6,6 @@
 
 ---
 
-<div align="center">
-
-</div>
-
 ---
 
 <table align="center">
