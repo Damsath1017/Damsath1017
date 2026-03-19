@@ -4,10 +4,6 @@
 
 </div>
 
----
-
----
-
 <table align="center">
 <tr>
 <td width="55%" align="left">
