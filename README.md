@@ -103,7 +103,6 @@ const damsath = {
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:damsathperera1017@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/wannakuwatta-perera)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Damsath1017)
-[![Phone](https://img.shields.io/badge/+94%2074%20255%208130-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117)](tel:+94)
 
 </div>
 
