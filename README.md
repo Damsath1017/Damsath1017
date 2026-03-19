@@ -1,4 +1,3 @@
-md
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Damsath%20Perera&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Code%20Enthusiast&descAlignY=55&descColor=a0a0b0)
