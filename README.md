@@ -17,7 +17,6 @@ md
 ║   > Status: Ready to build cool stuff 🚀          ║
 ║                                                   ║
 ╚═══════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -25,7 +24,7 @@ md
 
 ### 👾 About Me
 
-```javascript
+javascript
 const damsath = {
   name:       "Damsath Perera",
   role:       "Frontend Developer",
@@ -34,7 +33,6 @@ const damsath = {
   currentlyLearning: ["Advanced React Patterns", "Flutter"],
   funFact:    "I debug with console.log and I'm not ashamed 😄",
 };
-```
 
 ---
 
