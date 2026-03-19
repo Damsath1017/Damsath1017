@@ -7,12 +7,6 @@
 ---
 
 <div align="center">
-```
-$ node damsath.js
-// Initializing Damsath.exe ...
-▶  Loading skills  [████████████████████]  100%
-✓  Status: Building clean & functional interfaces 🚀
-```
 
 </div>
 
