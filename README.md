@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:161b22&height=220&section=header&text=Damsath%20Nadun%20Perera&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Frontend%20Developer&descAlignY=56&descColor=7d8590&fontFamily=monospace)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:161b22&height=220&section=header&text=Damsath%20Nadun%20Perera&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Fullstack%20Developer&descAlignY=56&descColor=7d8590&fontFamily=monospace)
 
 </div>
 
@@ -15,7 +15,7 @@ const damsath = {
   role:       "CS Undergraduate @ Westminster",
   location:   "Moratuwa, Sri Lanka 🇱🇰",
   year:       "2nd Year",
-  passion:    "Clean & functional front-end interfaces",
+  passion:    "Clean & functional full-stack interfaces",
   interests:  ["IT Security", "Algorithms", "Flutter"],
   email:      "damsathperera1017@gmail.com",
   funFact:    "Call me DNP 😄",
@@ -67,9 +67,12 @@ const damsath = {
 
 | Project | Tech | Description |
 |--------|------|-------------|
+| ✈️ **Wanderlust Travel Blog** | React, Node.js, Express, MongoDB | Premium full-stack travel blog with Firebase authentication |
+| 🏫 **Smart Campus API** | Java, JAX-RS, Tomcat | RESTful JAX-RS facilities and sensor management API |
 | 🌾 **Govi Sahaya** | Flutter, AI | Mobile app for farmers — AI-based crop disease detection & management |
-| 🌍 **Climate Action Website** | HTML, CSS, JS, Tailwind | Responsive awareness web app with animated UI & mobile-first design |
-| ✅ **Task Manager App** | Python, Tkinter | GUI task manager with OOP design, JSON storage & full CRUD |
+| 🔄 **Graph Acyclicity Checker** | Java, BFS/DFS | Directed graph cycle checker using Sink Elimination and DFS |
+| 📅 **Task Manager App** | Python, Tkinter | GUI task manager with OOP design, JSON storage & full CRUD |
+| 🌍 **Climate Action Website** | HTML, CSS, JS | Responsive awareness web app with animated UI & mobile-first design |
 
 ---
 
@@ -90,9 +93,11 @@ const damsath = {
 
 ### 🏆 Volunteering & Achievements
 
+- 🎓 **Full-Stack Development Program (online)** — University of Moratuwa (2026)
 - 🔗 **Volunteer** — Algorand Foundation · IIT Blockchain Workshop (2025)
 - 🎓 **Dip. English & Communication Skills** — University of Moratuwa (2025)
 - 📚 **BSc Computer Science** — University of Westminster (2025 – Present)
+- 🎓 **Dip. Information Technology & Management** — Future Care International Campus (2022)
 
 ---
 
