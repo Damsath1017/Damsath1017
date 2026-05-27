@@ -37,27 +37,7 @@ const damsath = {
 
 <div align="center">
 
-**— Languages —**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=0d1117)
-
-**— Web Development —**
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0d1117)
-
-**— Tools & Frameworks —**
-
-![JavaFX](https://img.shields.io/badge/JavaFX-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117)
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=0d1117)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,dart,html,css,react,mysql,flutter,mongodb,firebase,git,vscode)](https://skillicons.dev)
 
 </div>
 
