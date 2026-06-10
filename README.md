@@ -37,7 +37,7 @@ const damsath = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,dart,html,css,react,mysql,flutter,mongodb,firebase,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,react,tailwind,nodejs,express,postgres,prisma,mysql,flutter,mongodb,firebase,git,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -47,6 +47,7 @@ const damsath = {
 
 | Project | Tech | Description |
 |--------|------|-------------|
+| 🎓 **Commerce Academy Admin System** | React, TypeScript, Express, PostgreSQL, Prisma | Premium, state-of-the-art school administration control panel |
 | ✈️ **Wanderlust Travel Blog** | React, Node.js, Express, MongoDB | Premium full-stack travel blog with Firebase authentication |
 | 🏫 **Smart Campus API** | Java, JAX-RS, Tomcat | RESTful JAX-RS facilities and sensor management API |
 | 🌾 **Govi Sahaya** | Flutter, AI | Mobile app for farmers — AI-based crop disease detection & management |
